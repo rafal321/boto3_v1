@@ -1,0 +1,7 @@
+# Explicitly for Python 3
+
+sudo apt update
+sudo apt upgrade
+udo apt install python3-pip
+pip3 install boto3
+pip3 install awscli
